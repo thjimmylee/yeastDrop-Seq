@@ -2,6 +2,9 @@
 
 This repository contains scripts for data pre-processing and downstream analysis in the [yeastDrop-Seq paper](#).
 
+
+Dataset is available at GEO viewer (Accession Number: [GSE165686](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165686))
+
 ### Required softwares
 
 #### Data preprocessing
